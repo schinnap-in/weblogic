@@ -25,13 +25,9 @@ This lab assumes you have:
 
 ## Task 1: Enable Shared Link
 
-1. In the **Action Options**, check the checkboxes for the below Options:
+1. In the left navigation pane, expand **Administration** section, then expand **Admin Server**, click on **Component Manager** link , scroll down to the **SharedLink** , click on the checkbox and click on **Update** button
 
-    - **Continue on Error** : *checked*
-    - **Add Dependencies** : *checked*
-    - **Overwrite Duplicates** : *checked*
-
-You may now **proceed to the next lab**.
+    ![This image shows the WCC Instance Component Manager PAge - Enable Component](./images/task1-webcenter-configuration-page-sharedlink-1.png "WCC Instance Component Manager Page - Enable SharedLink Component")
 
 ### Learn More
 
