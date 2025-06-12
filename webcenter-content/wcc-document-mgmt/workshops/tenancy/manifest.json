@@ -1,5 +1,5 @@
 {
-  "workshoptitle": "Build Intelligent Content Applications at cloud speed with Oracle WebCenter & Oracle APEX",
+  "workshoptitle": "Document Management Scenario with WebCenter Content & OPA (Workflow)",
   "help": "mandar.x.tengse@oracle.com",
   "tutorials": [
     {
@@ -20,7 +20,7 @@
     {
       "title": "Lab 2: Setup WCC Marketplace Environment",
       "description": "How to provision the workshop environment and connect to it",
-      "filename": "../../02-wcc-environment-setup/02-wcc-environment-setup.md"
+      "filename": "https://oracle-livelabs.github.io/weblogic/webcenter-content/wcc-rfp-mgmt/02-wcc-environment-setup/02-wcc-environment-setup.md"
     },
     {
       "title": "Lab 3: Initialize WCC Environment",
