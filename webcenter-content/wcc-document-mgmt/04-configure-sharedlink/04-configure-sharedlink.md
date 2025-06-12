@@ -41,5 +41,5 @@ You may now **proceed to the next lab**.
 ## Acknowledgements
 
 - **Authors-** Senthilkumar Chinnappa, Senior Principal Solution Engineer, Oracle WebCenter Content
-- **Contributors-** Senthilkumar Chinnappa, Mandar Tengse , Parikshit Khisty
+- **Contributors-**  Mandar Tengse , Parikshit Khisty
 - **Last Updated By/Date-** Senthilkumar Chinnappa, August 2024
